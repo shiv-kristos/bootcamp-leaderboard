@@ -6,6 +6,7 @@ const navItems = [
   { label: 'Trainees', path: '/admin/trainees', icon: '◉' },
   { label: 'Categories', path: '/admin/categories', icon: '◈' },
   { label: 'Enter scores', path: '/admin/scores', icon: '✎' },
+  { label: 'Above & Beyond', path: '/admin/above-and-beyond', icon: '★' },
   { label: 'Streaks', path: '/admin/streaks', icon: '⚡' },
   { label: 'Attendance', path: '/admin/attendance', icon: '◻' },
   { label: 'Export', path: '/admin/export', icon: '↓' },
